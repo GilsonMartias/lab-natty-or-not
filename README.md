@@ -1,4 +1,4 @@
-```markdown
+
 # E-book - Inteligência Artificial Generativa 😁
 
 ## 📒 Descrição
@@ -23,5 +23,4 @@ Capítulos Interativos: Cada capítulo foi desenvolvido para prender a atenção
 ## 💭 Reflexão (Opcional)
 O desafio de criar algo inovador com  'natty' com IA foi uma experiência de aprendizado intensa e recompensadora. Combinar o poder da geração de conteúdo com ferramentas visuais geradas por IA abriu novas possibilidades criativas. Embora as IAs sejam capazes de criar conteúdo altamente sofisticado, o verdadeiro segredo está em saber orientá-las e moldar os resultados. Essa interação entre criatividade humana e inteligência artificial traz à tona a ideia de que, embora as máquinas possam criar, a verdadeira inovação vem da colaboração entre humanos e IAs. Ansioso pelo que o futuro reserva!
 
-```
 
